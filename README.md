@@ -1,2 +1,2 @@
 # Java
-transfer english to chienese
+中文版注释 jdk1.6
